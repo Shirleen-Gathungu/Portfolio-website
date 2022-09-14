@@ -64,14 +64,16 @@ height:90vh;
   }
   .circle-one{
     margin-top: -380px;
-    border: 20px solid rgb(121, 214, 175); 
+    border: 22px solid rgb(121, 214, 175); 
     border-radius: 310px;
     width: 195px;
     height: 190px;
   }
   .circle-one img{
-    height: 104%;
-    border-radius:590px;
+    width: 11.9em;
+    height: 242px;
+    border-radius:190px;
+    margin-left:12px ;
 
   }
   .fa {  
